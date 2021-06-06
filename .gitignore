@@ -1,0 +1,5 @@
+.*
+player.db
+venv/
+!.env.example
+!.gitignore
